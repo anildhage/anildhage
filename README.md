@@ -10,6 +10,9 @@ I am also a fan technology, software solutions, cloud services like AWS & Azure.
 
 [twitter-bot](https://github.com/anildhage/twitter-bot)
 
+## CV
+[profile](https://anildhage.github.io/resume/)
+
 <!--
 **anildhage/anildhage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
