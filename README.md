@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm a data analyst and a pythonist. My interests are in data Science, data analysis, and databases. 
+I am also a fan technology, software solutions, cloud services like AWS & Azure.
+
+## projects
+[titanic dataset](https://github.com/anildhage/titanic)
+
+[air quality prediction](https://github.com/anildhage/Air-Quality-Data-Science)
+
+[twitter-bot](https://github.com/anildhage/twitter-bot)
 
 <!--
 **anildhage/anildhage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
