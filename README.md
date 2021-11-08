@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm a data analyst and a pythonist. My interests are in data Science, data analysis, and databases. 
-I'm a fan technology, software solutions, cloud services like AWS & Azure. Checkout my [profile](https://anildhage.github.io/resume/)
+I'm a fan technology, software solutions, cloud services like AWS & Azure.
 
 ## projects
 | [titanic dataset](https://github.com/anildhage/titanic)       | [air quality prediction](https://github.com/anildhage/Air-Quality-Data-Science)           | [twitter-bot](https://github.com/anildhage/twitter-bot)  |
