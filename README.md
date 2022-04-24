@@ -8,11 +8,6 @@ I'm a fan technology, software solutions, cloud services like AWS & Azure.
 | ------------- |:-------------:| -----:|
 <!-- | | |  | -->
 
-## Popular Repositories
-| [Data Science](https://github.com/anildhage/data-science)|
-| ------------- |
-
-
 
 
 
