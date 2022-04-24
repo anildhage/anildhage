@@ -3,7 +3,7 @@
 I'm a python developer. I write code, define logic, debug issues, test web applications, develop platforms and applications, deploy apps on servers, build websites to suit businesses, organisations and users needs. 
 
 ## some projects
-| [titanic dataset](https://github.com/anildhage/titanic)       | [air quality prediction](https://github.com/anildhage/Air-Quality-Data-Science)           | [twitter-bot](https://github.com/anildhage/twitter-bot)  |
+| [titanic](https://github.com/anildhage/titanic)       | [air quality prediction](https://github.com/anildhage/Air-Quality-Data-Science)           | [twitter-bot](https://github.com/anildhage/twitter-bot)  |
 | ------------- |:-------------:| -----:|
 <!-- | | |  | -->
 
